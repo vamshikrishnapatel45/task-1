@@ -13,14 +13,17 @@ Configure a private, isolated hacking lab (VirtualBox Host-Only).
 
 Install and verify Kali Linux, Metasploitable2 (and optionally DVWA).
 
-Familiarize with tools: Wireshark, Nmap, Metasploit, Burp Suite, Netcat.<img width="1920" height="974" alt="metaspolitable 2  Running  - Oracle VirtualBox 18-09-2025 18_19_29" src="https://github.com/user-attachments/assets/31e188d9-1124-4645-af3f-90971bb64a41" />
-
+Familiarize with tools: Wireshark, Nmap, Metasploit, Burp Suite, Netcat.
 
 Demonstrate packet capture and scanning; document findings and mitigations.
 
 Produce deliverables: screenshots, cheatsheet.md, scan outputs, 5-min demo video.
-<img width="1920" height="974" alt="Oracle VirtualBox Manager 18-09-2025 18_18_45 (1)" src="https://github.com/user-attachments/assets/392f4cf2-1d40-48f1-a51f-e5f9916552e3" />
 
 Safe & Ethical Notice
 
-All scans, captures, and exploitation were performed only on lab machines I own/control (Kali & Metasploitable2). 
+All scans, captures, and exploitation were performed only on lab machines I own/control (Kali & Metasploitable2). Do not run these techniques on networks or systems without explicit permission.
+
+<img width="1920" height="991" alt="metaspolitable2  Running  - Oracle VirtualBox 18-09-2025 17_44_41" src="https://github.com/user-attachments/assets/3db947d9-4cff-44ca-b473-3e38492f0da4" />
+<img width="1920" height="991" alt="kali-linux-2024 3-virtualbox-amd64  Running  - Oracle VirtualBox 18-09-2025 17_47_02" src="https://github.com/user-attachments/assets/7dd27f2e-10b4-4c36-95cd-c921910d6f85" />
+
+

@@ -25,5 +25,8 @@ All scans, captures, and exploitation were performed only on lab machines I own/
 
 <img width="1920" height="991" alt="metaspolitable2  Running  - Oracle VirtualBox 18-09-2025 17_44_41" src="https://github.com/user-attachments/assets/3db947d9-4cff-44ca-b473-3e38492f0da4" />
 <img width="1920" height="991" alt="kali-linux-2024 3-virtualbox-amd64  Running  - Oracle VirtualBox 18-09-2025 17_47_02" src="https://github.com/user-attachments/assets/7dd27f2e-10b4-4c36-95cd-c921910d6f85" />
+<img width="1920" height="974" alt="Oracle VirtualBox Manager 18-09-2025 18_18_45 (1)" src="https://github.com/user-attachments/assets/c0056b01-6894-4d11-8f54-29d279b5ff30" />
 
+
+<img width="1919" height="974" alt="Screenshot 2025-09-19 000935" src="https://github.com/user-attachments/assets/d6045db4-11e7-41ed-abb0-1cf3af63f7cc" />
 

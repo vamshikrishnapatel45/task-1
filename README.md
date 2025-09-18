@@ -19,9 +19,8 @@ Familiarize with tools: Wireshark, Nmap, Metasploit, Burp Suite, Netcat.<img wid
 Demonstrate packet capture and scanning; document findings and mitigations.
 
 Produce deliverables: screenshots, cheatsheet.md, scan outputs, 5-min demo video.
+<img width="1920" height="974" alt="Oracle VirtualBox Manager 18-09-2025 18_18_45 (1)" src="https://github.com/user-attachments/assets/392f4cf2-1d40-48f1-a51f-e5f9916552e3" />
 
 Safe & Ethical Notice
 
-All scans, captures, and exploitation were performed only on lab machines I own/control (Kali & Metasploitable2). Do not run these techniques on networks or systems without explicit permission. 
-<img width="1920" height="974" alt="metaspolitable 2  Running  - Oracle VirtualBox 18<img width="960" height="756" alt="Oracle VirtualBox Manager 18-09-2025 18_18_08" src="https://github.com/user-attachments/assets/d4bb3cf4-30c6-4b2b-b484-5e7c248d5446" />
--09-2025 18_19_29" src="https://github.com/user-attachments/assets/1f3468dd-f0c1-44da-b991-fe8d5de41a00" />
+All scans, captures, and exploitation were performed only on lab machines I own/control (Kali & Metasploitable2). 
